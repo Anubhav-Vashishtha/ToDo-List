@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(219, 249, 253);
+}
+
+#form{
+    margin: 1vw 1vw;
+}
+
+#flex{
+    display: flex;
+    flex-direction: row; 
+    justify-items: center;
+     flex-wrap: wrap;
+     margin-top: 2vw;
+}
+
+
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:2rem ;
+    font-size: 4vw;
+    font-weight: bolder;
+}
+
+.bgc{
+    border: 2px solid black;
+}
